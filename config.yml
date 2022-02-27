@@ -6,15 +6,17 @@ params:
     systems normal operation, incidents that may happen and their resolution.
   systems:
     - name: Fix it Faster Website
-      description: Fix it Faster Website
+      description: Public facing website for Fix It Faster
       link: https://www.fixitfaster.com/
+    - name: Fix It Faster Server
+      description: Fix It Faster backend server
+      link: https://api.fixitfaster.com/
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
   logo: ""
-  description_header: Information about <a class='text-grey-darkest' title='Visit
-    fixitfaster.com' href='https://www.fixitfaster.com/'>fixitfaster</a> systems
-    operations.<br />
+  description_header: "Information about <a class='text-grey-darkest' title='Visit
+    fixitfaster.com' href='https://www.fixitfaster.com/'>Fix It Faster</a> "
   copyrightHolder: Fix It faster Pty Ltd
   eventsPerPage: 10
   iconType: image/png
