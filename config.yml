@@ -14,7 +14,7 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
-  logo: ""
+  logo: /images/logoimg.jpg
   description_header: Information about <a class='text-grey-darkest' title='Visit
     fixitfaster.com' href='https://www.fixitfaster.com/'>Fix It Faster</a>
     Applications and Services
