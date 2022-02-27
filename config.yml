@@ -18,7 +18,7 @@ params:
   description_header: Information about <a class='text-grey-darkest' title='Visit
     fixitfaster.com' href='https://www.fixitfaster.com/'>Fix It Faster</a>
     Applications and Services
-  copyrightHolder: Fix It faster Pty Ltd
+  copyrightHolder: Fix It Faster Pty Ltd
   eventsPerPage: 10
   iconType: image/png
   icon: /images/clearstatus.png
